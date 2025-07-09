@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ShivGak05/Githubclone-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ShivGak05/github-backend.git
